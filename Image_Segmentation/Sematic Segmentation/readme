@@ -1,0 +1,6 @@
+U-Net is one of the most popular architecture used for sematic segmentation. The recent architectures in the area of sematic segmentation are Inception U-Net, Attention U-Net etc. 
+Sematic segmenatation is very popular in medical image analysis.
+The goal of semantic image segmentation is to label each pixel of an image with a corresponding class of what is being represented.
+U-Net is built using a contracting path, which captures high-resolution, contextual features while downsampling at each layer, and an expanding path, which increases the resolution of the output through upsampling at each layer. 
+The features from the contracting path are fused with features from the expanding path through long skip connections, ensuring localization of the extracted contextual features.
+
