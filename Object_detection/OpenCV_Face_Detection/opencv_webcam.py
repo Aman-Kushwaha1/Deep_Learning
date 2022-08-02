@@ -26,6 +26,6 @@ while True:
         print("Exiting while loop")
         break
 
-        
-cap.release()
-cv2.destroyAllWindows()
+      
+cap.release() 
+cv2.destroyAllWindows()  #close all windows and relese webcam
