@@ -10,4 +10,5 @@ LSTM
 Attention
 Autoencoders
 Generative adversarial network (GAN)
+Transfer Learning
 
