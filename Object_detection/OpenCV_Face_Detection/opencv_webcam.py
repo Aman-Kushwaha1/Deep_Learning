@@ -24,7 +24,7 @@ while True:
     
     if cv2.waitKey(1)== ord('q'):   #press q to quit 
         print("Exiting while loop")
-        break
+        break    #out of while loop
 
       
 cap.release() 
