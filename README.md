@@ -9,6 +9,6 @@ RNN
 LSTM
 Attention
 Autoencoders
-Generative adversarial network (GAN)
+Generative adversarial network (GANs)
 Transfer Learning
 
