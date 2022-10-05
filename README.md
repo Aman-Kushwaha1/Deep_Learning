@@ -3,12 +3,12 @@ Deep Learning has it's application in image processing, speech and video process
 
 Contents in this Repository:
 
-Image segmentation: U-Net, Inception U-Net, Attention U-Net, Instance segmentation (in progress) 
-Object Detection: Faster Rcnn, YOLO (in progress) 
-RNN
-LSTM
-Attention
-Autoencoders
-Generative adversarial network (GANs)
-Transfer Learning
+Image segmentation: U-Net, Inception U-Net, Attention U-Net  <br />
+Object Detection: Faster Rcnn, YOLO  <br /> 
+RNN  <br />
+LSTM  <br />
+Attention  <br />
+Autoencoders  <br />
+Generative adversarial network (GANs)  <br />
+Transfer Learning  <br />
 
