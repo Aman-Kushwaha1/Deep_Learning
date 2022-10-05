@@ -3,7 +3,7 @@ Deep Learning has it's application in image processing, speech and video process
 
 Contents in this Repository:
 
-Image segmentation: U-Net, Inception U-Net, Attention U-Net, Instance segmentation  <br />
+Image segmentation: U-Net, Inception U-Net, Attention U-Net  <br />
 Object Detection: Faster Rcnn, YOLO  <br /> 
 RNN  <br />
 LSTM  <br />
