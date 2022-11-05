@@ -13,3 +13,7 @@ Autoencoders  <br />
 Generative adversarial network (GANs)  <br />
 Transfer Learning  <br />
 
+
+
+https://user-images.githubusercontent.com/92343793/200132636-622d32b3-b82e-4adf-8c59-a7c0a0fb468a.mp4
+
