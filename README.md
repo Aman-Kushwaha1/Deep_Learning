@@ -14,5 +14,9 @@ Generative adversarial network (GANs)  <br />
 Transfer Learning  <br />
 
 Object Detection Using Pretrained Faster-RCNN:
-https://user-images.githubusercontent.com/92343793/200132636-622d32b3-b82e-4adf-8c59-a7c0a0fb468a.mp4
+
+
+
+
+https://user-images.githubusercontent.com/92343793/200133101-70aa4146-3005-4532-a36c-8ca671f4fb41.mp4
 
