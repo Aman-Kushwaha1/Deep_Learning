@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/92343793/200133101-70aa4146-3005-4532-
 ![face1](https://user-images.githubusercontent.com/92343793/200133451-51cc459b-4020-49bd-92ab-2b91d5d1657c.png)
 
 
-## Image Captioning (Using RNN, LASTM, Attention RNN):
+## Image Captioning (Using RNN, LSTM, Attention RNN):
 Image: <br/>
 ![zebra](https://user-images.githubusercontent.com/92343793/200133738-267fb715-8abb-43d6-891e-6b950b14226c.png)
 
