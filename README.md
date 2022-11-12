@@ -29,7 +29,10 @@ Output Using Lanenet:
 
 ![binary_output](https://user-images.githubusercontent.com/92343793/201494235-b90c3261-5887-46a0-9551-32f68964489d.jpg)
 
-Output Using Yolop
+Output Using Yolop:
+
+
+![pred](https://user-images.githubusercontent.com/92343793/201495204-0c59e21a-6672-46f6-8201-e16dee580603.png)
 
 ## Image Segmentation:
 Example: <br/>
