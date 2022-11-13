@@ -20,8 +20,19 @@ Transfer Learning  <br />
 
 https://user-images.githubusercontent.com/92343793/200133101-70aa4146-3005-4532-a36c-8ca671f4fb41.mp4
 
+## Lane Detection:
+Image:
+
+![input](https://user-images.githubusercontent.com/92343793/201494217-8a79dff2-88e8-43dd-97d4-a29996c9ca2c.jpg)
+
+Output Using Lanenet:
+
+![binary_output](https://user-images.githubusercontent.com/92343793/201494235-b90c3261-5887-46a0-9551-32f68964489d.jpg)
+
+Output Using Yolop:
 
 
+![pred](https://user-images.githubusercontent.com/92343793/201495204-0c59e21a-6672-46f6-8201-e16dee580603.png)
 
 ## Image Segmentation:
 Example: <br/>
